@@ -1,1 +1,3 @@
 # classification-challenge
+
+In this challenge you will be splitting the data into training and test sets before using Standardscaler to scale them based on the X_train set. We will then move onto creating a logistic regression model and a random forest model to make predicitons based on the data. Finally we will be evaluating the two models and determining which model performed better based on their accuracy scores
